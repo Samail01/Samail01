@@ -4,7 +4,10 @@
 
 I´m Samail from Norway, first year student on Noroff. I really enjoy learning languages and wokring with design.
 
-Skills: JS / HTML / CSS
+## Skills
+ 💻 HTML, CSS & JS
+
+
 
 - 🔭 I’m currently working on My portfolio 
 - 🌱 I’m currently learning JS/ REACT / BOOTSRAP 
